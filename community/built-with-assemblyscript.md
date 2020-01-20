@@ -85,4 +85,5 @@ description: >-
 
 * [wasm-matrix](https://github.com/torch2424/wasm-matrix) A Matrix effect in your terminal using AssemblyScript and WASI, deployed to WAPM.
 * [WireWorld](https://github.com/dested/WireWorld) \([demo](https://dested.com/projects/wire/)\) The Wireworld Computer in Javascript/Canvas.
+* [WebAssembly music experiment](https://petersalomonsen.com) A live coding environment in the browser for sequencing music with javascript and synthesizing instruments in AssemblyScript. Demonstrates compiling AssemblyScript directly in the browser, and live hot-swapping of webassembly modules.
 
